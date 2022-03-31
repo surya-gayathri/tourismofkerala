@@ -1,0 +1,121 @@
+
+header{
+  width:100%;
+  background-color: black;
+  height:100px;
+  color: white;
+  
+  font-weight: bold;
+  padding: 10px;
+}
+.main{
+  background-color: aliceblue;
+}
+.row{
+  margin-top: 10%;
+  margin-bottom: 5%;
+
+}
+
+body {
+ 
+  align-items: center;
+  
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: url("images/home-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a{
+color: rgb(121, 115, 115);}
+a.sign{
+  color:rgb(20, 19, 22);
+}
+
+#submit{
+  background-color: rgb(13, 13, 13);
+  color: rgb(237, 235, 235);
+  margin-left: 160px;
+  border-color: rgb(224, 224, 224);
+  border-radius: 50px;
+}
+.card-signin {
+  
+  border: 0;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.card-signin .card-title {
+  margin-bottom: 2rem;
+  font-weight: 300;
+  font-size: 1.5rem;
+}
+
+.card-signin .card-body {
+  padding: 2rem;
+}
+
+.form-signin {
+  width: 100%;
+}
+
+.form-signin .btn {
+  font-size: 20px;
+  border-radius: 5rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+  padding: 1rem;
+  transition: all 0.2s;
+}
+img{
+  margin-left:120px;
+  margin-top: 0px;
+  
+}
+
+.card-body{
+  
+  height: 500px;
+}
+.form-label-group {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.form-label-group input {
+  height: auto;
+  border-radius: 2rem;
+}
+
+.form-label-group>label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  margin-bottom: 0;
+  line-height: 1.5;
+  color: #495057;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  transition: all .1s ease-in-out;
+}
+
+.home{
+  border: none;
+  color: rgba(122, 112, 112, 0.395);
+  border-radius: 7px;
+  padding: 10px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  background-color: rgb(35, 126, 231);
+  color:rgb(82, 80, 80);
+  margin-left: 145px;
+}
+

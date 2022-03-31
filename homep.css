@@ -1,0 +1,55 @@
+header{
+    width:100%;
+    background-color: rgb(112, 121, 123);
+    height:40px;
+    color: #ffffff;
+    
+    font-weight: bold;
+    padding: 10px;
+    
+}
+body{
+    background-image: url("images/home1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img.logo{
+    margin-left: 4px;
+    padding-top: 0px;
+}
+
+h3{
+    
+    padding-top: 10px ;
+    color: rgb(230, 235, 203);
+    margin-right: 83%;
+    float: right;
+    
+}
+
+.carousel .carousel-item {
+    height: 625px;
+  }
+  
+  .carousel-item img {
+      position: absolute;
+      object-fit:cover;
+      top: 0;
+      left: 0;
+      min-height: 500px;
+  }
+  .para
+  {
+      
+      width:63%;
+      text-align: justify;
+      color:rgb(255, 252, 252);
+      border-color: rgb(50, 122, 158);
+      border-radius: 10px;
+      background-color: rgb(100, 106, 113);
+      margin-left: 14px;
+      padding:10px;
+      word-spacing: 5px;
+      
+  }
+

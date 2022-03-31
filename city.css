@@ -1,0 +1,42 @@
+.para
+{
+    margin-top: 2%;
+    width:75%;
+    text-align: justify;
+    color:rgb(15, 15, 15);
+    border-color: white;
+    border-radius: 10px;
+    background-color: rgb(136, 140, 142);
+    margin-left: 14px;
+    padding:10px;
+    letter-spacing: 1px;
+    
+}
+.city{
+    margin-left: 12px;
+}
+header{
+    width:100%;
+    background-color: black;
+    height:60px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    
+}
+h3{
+    padding-left: 12px;
+
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    height: 48px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+  }
