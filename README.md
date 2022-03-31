@@ -1,0 +1,2 @@
+# tourismofkerala
+A static website.
